@@ -13,20 +13,61 @@
 
 ---
 
-## 🧑‍💻 About
+## 🎯 About Me
 
-I like building real-world applications that are simple, scalable, and useful.  
-Currently focused on full-stack development, backend systems, and problem solving.
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+<table align="center">
+<tr>
+<td align="center">💼 <b>Role</b></td>
+<td align="center">📍 <b>Location</b></td>
+<td align="center">🎯 <b>Focus</b></td>
+</tr>
+<tr>
+<td align="center">Full Stack Developer</td>
+<td align="center">India</td>
+<td align="center">Web Apps & Backend Systems</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ Tech Stack
+## 🔥 Technical Skills
 
+### 🧠 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,aws,git" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
 </p>
 
 ---
+
+### ⚙️ Backend & Dev Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,kubernetes,redis,postgres" />
+</p>
+
+---
+
+### ☁️ Cloud & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,linux" />
+</p>
+
+---
+
+### 🧰 Additional Tools (YOUR CUSTOM ADDITIONS)
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
 
 ## 🚀 Projects
 
